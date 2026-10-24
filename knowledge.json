@@ -1,9 +1,39 @@
 {
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-10-24",
+  "quotes": [
+    "Small, steady habits shape your hormones more than any single perfect day.",
+    "Light one block today and let tomorrow build on it."
+  ],
   "globalTips": [
     "Morning sunlight exposure within 30 minutes of waking anchors the master circadian clock in the suprachiasmatic nucleus.",
     "Combining non-heme iron sources (like lentils) with organic acids like ascorbic acid maximizes uptake.",
     "A 10-minute walk immediately following a carbohydrate-heavy meal significantly blunts glucose spikes."
+  ],
+  "qa": [
+    {
+      "q": ["when should I get morning light", "how does sunlight help my body clock", "why is morning sunlight important"],
+      "a": "Morning sunlight within about 30 minutes of waking helps anchor your body clock, which is set by the suprachiasmatic nucleus in the brain.",
+      "tags": ["circadian", "sunlight", "sleep"],
+      "src": "Nutrimone tips"
+    },
+    {
+      "q": ["how can I absorb more iron from lentils", "how do I get more iron from plant foods", "vitamin C and iron"],
+      "a": "Eat non-heme iron foods such as lentils together with a vitamin C source such as capsicum or citrus. Ascorbic acid helps your body take up more of the iron.",
+      "tags": ["iron", "vitamin c", "absorption"],
+      "src": "Nutrimone tips"
+    },
+    {
+      "q": ["should I walk after eating", "how to reduce a glucose spike after a meal", "walk after a carb heavy meal"],
+      "a": "A short walk of about 10 minutes soon after a carbohydrate-heavy meal can reduce the rise in blood glucose.",
+      "tags": ["glucose", "insulin", "walking"],
+      "src": "Nutrimone tips"
+    },
+    {
+      "q": ["when should I stop drinking coffee", "caffeine cut-off time", "does caffeine affect sleep"],
+      "a": "Caffeine can delay melatonin and lighten deep sleep. Many people sleep better if they stop about 6 hours before bed.",
+      "tags": ["sleep", "caffeine", "melatonin"],
+      "src": "Your source name, page number"
+    }
   ]
 }
